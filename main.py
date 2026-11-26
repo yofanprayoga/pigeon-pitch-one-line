@@ -15,8 +15,8 @@ import os
 MAX_CHARS = 200
 
 STORY = (
-    "Forty pigeons, one rooftop HQ, zero traffic: we deliver across the "
-    "city faster than any courier, and our only fuel is your lunch."
+    "Forty pigeons, one rooftop HQ, zero traffic: we out-deliver every "
+    "courier in the city, and our burn rate is your lunch."
 )
 
 
